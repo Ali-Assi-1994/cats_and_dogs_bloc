@@ -23,6 +23,7 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    print('MyApp here');
     return MultiRepositoryProvider(
       providers: [
         RepositoryProvider<DogsRepo>(create: (context) => DogsRepo()),
