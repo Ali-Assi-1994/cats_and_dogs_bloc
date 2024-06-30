@@ -2,10 +2,9 @@
 
 Welcome to the [**Mastering Flutter State Management with the BloC Pattern**](https://medium.com/@ali_assi/2b3fc10ed3be) repository! This project is a beginner-friendly tutorial on how to use the Bloc state management pattern in a Flutter application.
 
-The main goal of this tutorial is to guide you through the process of building a simple mobile app that fetches random images of cats and dogs from an API. The app will have two screens: one for displaying cat images and one for displaying dog images, beside an authentication services using Firebase Authentication.
+The primary objective of this tutorial is to walk you through the process of creating a app that retrieves random images of cats and dogs from an API. The app will consist of two screens; one for displaying cat images and another for displaying dog images alongside an authentication service that utilizes Firebase Authentication.
 
-To achieve this, we will be using the Bloc library, which is a state management solution that helps you separate your app's presentation logic from its business logic. We will use the Bloc pattern to manage the state of our app and handle user interactions. Also, we will connect the app with Firebase for the authentication part.
-
+To accomplish this we will utilize the Bloc library, which provides a solution, for managing state in your app while separating presentation logic from business logic. By implementing the Bloc pattern we can effectively manage our apps state. Handle user interactions. Additionally we will integrate Firebase into our app to handle authentication.
 
 
 ## How to Run the App
